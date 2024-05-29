@@ -83,4 +83,5 @@ body {background-color: rgb(61, 97, 61);}
 .gambar {
     display: flex;
     justify-content: center;
+    margin: 20px; 
 }
